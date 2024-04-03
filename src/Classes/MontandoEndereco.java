@@ -2,7 +2,7 @@ package Classes;
 
 import java.util.Scanner;
 
-public class FazendoEnderecoURL {
+public class MontandoEndereco {
 
 
     public static String montandoEndereco() {
